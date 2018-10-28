@@ -36,6 +36,7 @@ def create_jobs():
         queue.put(link)
     queue.join()
     crawl()
+    # to crwal urls
 
 
 # Check if there are items in the queue, if so crawl them
