@@ -1,6 +1,6 @@
 # crawler
 ## Description
-Python based multi-threaded web crawler using urllib
+Python based multi-threaded web crawler using "urllib"
 ## PreRequisites
 * Python 3
 ## Deployment
